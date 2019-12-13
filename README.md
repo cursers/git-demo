@@ -1,2 +1,2 @@
 # git-demo
-for studying
+for studying git
